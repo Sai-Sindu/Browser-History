@@ -1,0 +1,41 @@
+.list-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.browsedDetails-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.timeAccessed-text {
+  color: #475569;
+  font-size: 15px;
+  margin-right: 20px;
+}
+.domain-logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 20px;
+}
+.title-text {
+  color: #475569;
+  font-size: 17px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+.domainUrl-text {
+  color: #64748b;
+  font-size: 15px;
+}
+.delete-logo {
+  height: 25px;
+  width: 25px;
+}
+.delete-button {
+  border-width: 0;
+  background-color: transparent;
+}
